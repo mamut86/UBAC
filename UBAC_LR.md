@@ -1,4 +1,4 @@
-R Notebook
+Drexel University Business Analytics Club Workshop
 ================
 
 # Credit card data
