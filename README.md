@@ -1,7 +1,7 @@
 Drexel University Business Analytics Club Workshop
 ================
 
-# Logistic Regression Workshop using Credit Card Data
+# Logistic Regression
 
 In this workshop, we will consider the credit card default dataset used
 in book Introduction to Statistical Learning.
